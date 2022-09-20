@@ -8,7 +8,7 @@ My work in semantic segmentation of the e-scooter(ReZoom 2.0 and 3.0) pathway to
 
 ### ReZoom 2.0
 
-![PXL_20220624_230419846](https://user-images.githubusercontent.com/90351952/191345057-c04f062a-25a0-4d04-aff3-f4b093c78f18.jpg)
+![PXL_20220624_230419846](https://user-images.githubusercontent.com/90351952/191350972-240d0441-c8f3-4768-9f51-ddfad16f2b57.jpg)
 
 ### Semantic segmentation Overlay and Mask 
 
