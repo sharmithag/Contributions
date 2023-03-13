@@ -1,7 +1,7 @@
 # Contributions
 All my contributions in other projects
 
-## 1. Part of my work during research assistantship
+## 1. Perception for ReZoom autonomous e-scooter(during research assistantship)
 
 https://github.com/sharmithag/segmented_pointcloud_research
 
