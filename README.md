@@ -1,6 +1,10 @@
 # Contributions
 All my contributions in other projects
 
+Part of my work in research assistantship
+
+https://github.com/sharmithag/segmented_pointcloud_research
+
 Controlling a differential drive robot using hand gestures involving perception and serial communication.
 
 https://github.com/Rishabh96M/VISIONaries
